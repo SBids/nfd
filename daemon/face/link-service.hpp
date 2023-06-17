@@ -33,6 +33,8 @@
 
 #include "multicast-suppression.hpp"
 
+#include "common/global.hpp"
+
 namespace nfd::face {
 
 /** \brief counters provided by LinkService

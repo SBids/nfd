@@ -26,7 +26,7 @@
 #include "link-service.hpp"
 #include "face.hpp"
 
-#include "common/global.hpp"
+// #include "common/global.hpp"
 
 namespace nfd::face {
 
